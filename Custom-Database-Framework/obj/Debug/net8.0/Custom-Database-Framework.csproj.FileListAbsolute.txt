@@ -1,0 +1,14 @@
+G:\s-cat\Custom-Database-Framework\Custom-Database-Framework\bin\Debug\net8.0\Custom-Database-Framework.exe
+G:\s-cat\Custom-Database-Framework\Custom-Database-Framework\bin\Debug\net8.0\Custom-Database-Framework.deps.json
+G:\s-cat\Custom-Database-Framework\Custom-Database-Framework\bin\Debug\net8.0\Custom-Database-Framework.runtimeconfig.json
+G:\s-cat\Custom-Database-Framework\Custom-Database-Framework\bin\Debug\net8.0\Custom-Database-Framework.dll
+G:\s-cat\Custom-Database-Framework\Custom-Database-Framework\bin\Debug\net8.0\Custom-Database-Framework.pdb
+G:\s-cat\Custom-Database-Framework\Custom-Database-Framework\obj\Debug\net8.0\Custom-Database-Framework.GeneratedMSBuildEditorConfig.editorconfig
+G:\s-cat\Custom-Database-Framework\Custom-Database-Framework\obj\Debug\net8.0\Custom-Database-Framework.AssemblyInfoInputs.cache
+G:\s-cat\Custom-Database-Framework\Custom-Database-Framework\obj\Debug\net8.0\Custom-Database-Framework.AssemblyInfo.cs
+G:\s-cat\Custom-Database-Framework\Custom-Database-Framework\obj\Debug\net8.0\Custom-Database-Framework.csproj.CoreCompileInputs.cache
+G:\s-cat\Custom-Database-Framework\Custom-Database-Framework\obj\Debug\net8.0\Custom-Database-Framework.dll
+G:\s-cat\Custom-Database-Framework\Custom-Database-Framework\obj\Debug\net8.0\refint\Custom-Database-Framework.dll
+G:\s-cat\Custom-Database-Framework\Custom-Database-Framework\obj\Debug\net8.0\Custom-Database-Framework.pdb
+G:\s-cat\Custom-Database-Framework\Custom-Database-Framework\obj\Debug\net8.0\Custom-Database-Framework.genruntimeconfig.cache
+G:\s-cat\Custom-Database-Framework\Custom-Database-Framework\obj\Debug\net8.0\ref\Custom-Database-Framework.dll
