@@ -26,13 +26,13 @@ The framework was developed with the goal of providing a straightforward way to 
 
 To install the Custom-Database-Framework, simply clone the repository and include the framework files in your project:
 
-<code>git clone https://github.com/yourusername/custom-database-framework.git</code>
+```sh ~$ git clone https://github.com/SideProjects-IDK/Custom-Database-Framework.git```
 
 ## Usage
 
 Here’s a simple example of how to use the Custom-Database-Framework:
 
-<code>
+```csharp
 // Import the framework
 import DatabaseFramework;
 
@@ -47,7 +47,7 @@ db.addObject(obj);
 
 // Retrieve the object
 MyObject retrievedObj = db.getObject(obj.id);
-</code>
+```
 
 ## Contributing
 
